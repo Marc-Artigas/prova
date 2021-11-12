@@ -1,7 +1,7 @@
 <?php
 echo "provant git";
 
-echo "seguim";
+echo "seguim fent";
 
 
 
